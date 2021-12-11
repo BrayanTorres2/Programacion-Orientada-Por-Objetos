@@ -1,0 +1,2 @@
+# POO_2022_C1
+Este es un curso introductorio a la programación Orientada a Objetos. Se espera fomentar en el estudiante la habilidad de analizar y proponer  solución a problemas que involucren el uso de un lenguaje de programación y el paradigma de programación orientado a objetos (POO).   El curso cubre los conceptos básicos del paradigma de POO, tales como clases, objetos, métodos, interfaces y polimorfismo. 
