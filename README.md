@@ -97,7 +97,7 @@ Activación del ambiente virtual:
 `alias avenv=“source venv/bin/activate”`
 
 # Intalar modulos
-- ver todos los modulos instalados 
+**ver todos los modulos instalados** 
 * pip freeze 
-- instalar Pandas
+**instalar Pandas**
 * pip install pandas
