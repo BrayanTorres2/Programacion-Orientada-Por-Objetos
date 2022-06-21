@@ -98,6 +98,6 @@ Activación del ambiente virtual:
 
 # Intalar modulos
 **ver todos los modulos instalados** 
-* pip freeze <br>
+pip freeze <br>
 **instalar Pandas**
-* pip install pandas
+pip install pandas
