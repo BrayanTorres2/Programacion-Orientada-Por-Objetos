@@ -80,18 +80,24 @@ En la barra lateral, en la opción `Terminal` (ícono de terminal) podemos ver l
 Usualmente el nombre del ambiente virtual es venv.
 Activación del ambiente virtual:
 
-Windows:
+- Windows:
 * .\venv\Scripts\activate
 
-Unix o MacOS:
+- Unix o MacOS:
 * source venv/bin/activate
 
-Desactivar el ambiente virtual:
+- Desactivar el ambiente virtual:
 
 * deactivate
 
-Crear un alias en linux/mac:
+- Crear un alias en linux/mac:
 
 * alias nombre-alias="comando"
 
 `alias avenv=“source venv/bin/activate”`
+
+# Intalar modulos
+- ver todos los modulos instalados 
+* pip freeze 
+- instalar Pandas
+* pip install pandas
