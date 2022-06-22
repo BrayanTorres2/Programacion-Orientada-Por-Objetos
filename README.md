@@ -75,6 +75,8 @@ En la barra lateral, en la opción `Terminal` (ícono de terminal) podemos ver l
  # Creando un ambiente virtual 
 ## Creación de ambiente Virtual:
 
+https://cmder.net/
+
  pip install virtualenv -->para instalar entornos virtuales
  
  virtualenv env_nombre_proyecto  ->Crear el entorno virtual
