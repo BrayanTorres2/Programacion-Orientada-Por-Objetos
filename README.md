@@ -87,6 +87,8 @@ En la barra lateral, en la opción `Terminal` (ícono de terminal) podemos ver l
  
  deactivate  --> desactivar mi entorno
  
+ py proyecto.py -->correr en la terminarl el archivo py
+ 
 
 # Intalar modulos
 ## ver todos los modulos instalados
