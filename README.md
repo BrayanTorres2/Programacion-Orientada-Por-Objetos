@@ -76,10 +76,15 @@ En la barra lateral, en la opción `Terminal` (ícono de terminal) podemos ver l
 ## Creación de ambiente Virtual:
 
  pip install virtualenv -->para instalar entornos virtuales
+ 
  virtualenv env_nombre_proyecto  ->Crear el entorno virtual
+ 
  \env_nombre_proyecto\Scripts\activate  ->activar el entorno
+ 
  python --version -->para saber que version de python tiene mi entorno
+ 
  pip freeze -->para saber que tiene instalado mi entorno
+ 
  deactivate  --> desactivar mi entorno
  
 
