@@ -91,6 +91,8 @@ https://cmder.net/
  
  py proyecto.py -->correr en la terminarl el archivo py
  
+ touch nombre_archivo.py  -->crear un archivo desde la terminal
+ 
 
 # Intalar modulos
 ## ver todos los modulos instalados
