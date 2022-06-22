@@ -79,7 +79,7 @@ En la barra lateral, en la opción `Terminal` (ícono de terminal) podemos ver l
  
  virtualenv env_nombre_proyecto  ->Crear el entorno virtual
  
- \env_nombre_proyecto\Scripts\activate  ->activar el entorno
+ .\env_nombre_proyecto\Scripts\activate  ->activar el entorno
  
  python --version -->para saber que version de python tiene mi entorno
  
