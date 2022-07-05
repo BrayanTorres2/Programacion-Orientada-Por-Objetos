@@ -1,7 +1,0 @@
-git clone https://github.com/BrayanTorres2/Programacion-Orientada-Por-Objetos.git
-
-git add *
-
-git commit -m "git commit"
-
-git push
